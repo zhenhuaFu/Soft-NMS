@@ -3,6 +3,8 @@
   
   Original Paper：[Improving Object Detection With One Line of Code](https://arxiv.org/abs/1704.04503)
   
+  I have upload a new function named Pytorch_soft_nms_gpu.py, this file can be used to realize soft nms on gpu.You should notice the Input and Output of this function!
+  
 ## Description
 This repo include :
   1.  Python version of Soft NMS algorithm
